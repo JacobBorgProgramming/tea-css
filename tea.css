@@ -1,0 +1,188 @@
+@import url('https://fonts.borgcreative.com/fonts.css');
+
+html{
+    font-family: "Roboto Mono";
+}
+.RobotoMono{
+    font-family: "Roboto Mono";
+}
+.Barlow{
+    font-family: "Barlow";
+}
+.RadisSans{
+    font-family: "Radis Sans";
+}
+.Oswald{
+    font-family: "Oswald";
+}
+.Quicksand{
+    font-family: "Quicksand";
+}
+.NanumGothic{
+    font-family: "Nanum Gothic";
+}
+.NanumGothicBold{
+    font-family: "Nanum Gothic Bold";
+}
+.NanumGothicExtraBold{
+    font-family: "Nanum Gothic ExtraBold";
+}
+
+button.default {
+
+    background-color: #00001B;
+    color: #D9D9D9;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+button.default:hover {
+
+    background-color: #3a3a3a;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+button.blue {
+
+    background-color: #1F4F7D;
+    color: #D9D9D9;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+button.blue:hover {
+
+    background-color: #3280C9;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+button.orange {
+
+    background-color: #9E4C08;
+    color: #D9D9D9;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+button.orange:hover {
+
+    background-color: #D99830;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+button.red {
+
+    background-color: #A6243C;
+    color: #D9D9D9;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+button.red:hover {
+
+    background-color: #D91E41;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+.rd5 {
+    border-radius: 5px;
+}
+.rd5:hover {
+    border-radius: 5px;
+}
+
+.rd15 {
+    border-radius: 15px;
+}
+.rd15:hover {
+    border-radius: 15px;
+}
+
+p.default {
+    color: #00001B;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+p.small {
+    font-size: 12px;
+}
+p.medium {
+    font-size: 18px;
+}
+p.large {
+    font-size: 24px;
+}
+
+button.small {
+    font-size: 14px;
+}
+button.medium {
+    font-size: 20px;
+}
+button.large {
+    font-size: 26px;
+}
+
+code.default{
+    background-color: #00001B;
+    color: #D9D9D9;
+    padding: 5px;
+}
+
+
+code.blue{
+    background-color: #00001B;
+    color: #3280C9;
+    padding: 5px;
+}
+
+code.orange{
+    background-color: #00001B;
+    color: #D99830;
+    padding: 5px;
+}
+
+code.red{
+    background-color: #00001B;
+    color: #D91E41;
+    padding: 5px;
+}
