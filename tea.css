@@ -2,22 +2,15 @@
 
 html{
     font-family: "Roboto Mono";
+
+}
+body{
+  padding: 15px;
 }
 .RobotoMono{
     font-family: "Roboto Mono";
 }
-.Barlow{
-    font-family: "Barlow";
-}
-.RadisSans{
-    font-family: "Radis Sans";
-}
-.Oswald{
-    font-family: "Oswald";
-}
-.Quicksand{
-    font-family: "Quicksand";
-}
+
 .NanumGothic{
     font-family: "Nanum Gothic";
 }
@@ -185,4 +178,23 @@ code.red{
     background-color: #00001B;
     color: #D91E41;
     padding: 5px;
+}
+
+
+div.card{
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    margin: 15px;
+}
+p.card.heading{
+    font-size: 25px;
+}
+
+p.card.body{
+    font-size: 15px;
+}
+p.card{
+    font-size: 18px;
 }
